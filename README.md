@@ -50,15 +50,14 @@ Mamatha puppala
 
 ![Dashboard 4](screenshots/Screenshot 2026-07-10 222928.png)
 
-
 ### Dashboard 1
-![Dashboard 1](./screenshots/Screenshot%202026-07-10%20222719.png)
+![Dashboard 1](./screenshots/Dashboard_1_Executive_Overview.png)
 
 ### Dashboard 2
-![Dashboard 2](./screenshots/Screenshot%202026-07-10%20222829.png)
+![Dashboard 2](./screenshots/Dashboard_2_Claims_Analysis.png)
 
 ### Dashboard 3
-![Dashboard 3](./screenshots/Screenshot%202026-07-10%20222902.png)
+![Dashboard 3](./screenshots/Dashboard_3_Agent_Performance.png)
 
 ### Dashboard 4
-![Dashboard 4](./screenshots/Screenshot%202026-07-10%20222928.png)
+![Dashboard 4](./screenshots/Dashboard_4_Risk_Retention.png)
