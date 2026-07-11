@@ -41,15 +41,6 @@ Customer demographics, retention, and policy distribution.
 ## Author
 Mamatha puppala
 
-
-![Dashboard 1](screenshots/Screenshot 2026-07-10 222719.png)
-
-![Dashboard 2](screenshots/Screenshot 2026-07-10 222829.png)
-
-![Dashboard 3](screenshots/Screenshot 2026-07-10 222902.png)
-
-![Dashboard 4](screenshots/Screenshot 2026-07-10 222928.png)
-
 ### Dashboard 1
 ![Dashboard 1](./screenshots/Dashboard_1_Executive_Overview.png)
 
