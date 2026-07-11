@@ -49,3 +49,16 @@ Mamatha puppala
 ![Dashboard 3](screenshots/Screenshot 2026-07-10 222902.png)
 
 ![Dashboard 4](screenshots/Screenshot 2026-07-10 222928.png)
+
+
+### Dashboard 1
+![Dashboard 1](./screenshots/Screenshot%202026-07-10%20222719.png)
+
+### Dashboard 2
+![Dashboard 2](./screenshots/Screenshot%202026-07-10%20222829.png)
+
+### Dashboard 3
+![Dashboard 3](./screenshots/Screenshot%202026-07-10%20222902.png)
+
+### Dashboard 4
+![Dashboard 4](./screenshots/Screenshot%202026-07-10%20222928.png)
