@@ -42,7 +42,7 @@ Customer demographics, retention, and policy distribution.
 Mamatha puppala
 
 ### Dashboard 1
-![Dashboard 1](Dashboard_1_Executive_Overview.png)
+![Dashboard 1](Dashboard_1_Insurance_Executive_Analysis.png)
 
 ### Dashboard 2
 ![Dashboard 2](Dashboard_2_Claims_Analysis.png)
